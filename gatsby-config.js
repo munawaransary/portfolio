@@ -5,11 +5,11 @@ module.exports = {
     title: 'Munawar Mahtab Ansary',
     description:
       'Munawar Mahtab Ansary is a Machine Learning Engineer specializing in NLP, AI systems, and full-stack development.',
-    siteUrl: 'https://munawaransary.github.io/portfolio_moon_e_war', // No trailing slash allowed!
+    siteUrl: 'https://munawaransary.github.io/portfolio', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@munawaransary',
   },
-  pathPrefix: '/portfolio_moon_e_war',
+  pathPrefix: '/portfolio',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
